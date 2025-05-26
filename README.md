@@ -1,6 +1,6 @@
 # 🎮 GameVerse – The Ultimate Mini Games Hub
 
-Welcome to **GameVerse**, a feature-rich collection of fun, educational, and nostalgic mini-games crafted with ❤️ using **React Native + TypeScript**. Designed for mobile and tablet devices, this app delivers high-performance gameplay with immersive animations, intuitive controls, and a sleek unified design.
+Welcome to **GameVerse**, a feature-rich collection of fun, educational, and nostalgic mini-games crafted with ❤️ using **Next.js + TypeScript**. Designed for mobile and tablet devices, this app delivers high-performance gameplay with immersive animations, intuitive controls, and a sleek unified design.
 
 ---
 

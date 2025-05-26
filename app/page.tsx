@@ -82,10 +82,10 @@ export default function HomePage() {
   ]
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com", label: "GitHub" },
+    { icon: Github, href: "https://github.com/jayrajsinghrathore", label: "GitHub" },
     { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
-    { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-    { icon: Mail, href: "mailto:contact@example.com", label: "Email" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/jayraj-singh-rathore-786b13217", label: "LinkedIn" },
+    { icon: Mail, href: "mailto:jayrajsingh1416@gmail.com", label: "Email" },
   ]
 
   if (!mounted) return null
@@ -173,7 +173,7 @@ export default function HomePage() {
 
         {/* Footer */}
         <footer className="text-center mt-16 text-gray-400">
-          <p>&copy; 2024 GameHub. Built with Next.js and Tailwind CSS.</p>
+          <p>&copy; 2025 GameHub. Built with Next.js and Tailwind CSS.</p>
         </footer>
       </div>
     </div>
